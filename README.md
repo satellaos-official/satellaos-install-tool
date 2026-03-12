@@ -40,8 +40,8 @@
 
 | | | |
 |---|---|---|
-| ![Screenshot 1](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/screenshots/satellaos-screenshot1.png) | ![Screenshot 2](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/screenshots/satellaos-screenshot2.png) | ![Screenshot 3](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/screenshots/satellaos-screenshot3.png) |
-| ![Screenshot 4](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/screenshots/satellaos-screenshot4.png) | | |
+| ![Screenshot 1](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/screenshots/satellaos-screenshot1.png) | ![Screenshot 2](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/screenshots/satellaos-screenshot2.png) | ![Screenshot 3](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/screenshots/satellaos-screenshot3.png) |
+| ![Screenshot 4](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/screenshots/satellaos-screenshot4.png) | | |
 
 ---
 
@@ -52,17 +52,17 @@
 
 | Adım / Step | Görsel / Image |
 |:-----------:|:--------------:|
-| **1** | ![Step 1](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-1.png) |
-| **2** | ![Step 2](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-2.png) |
-| **3** | ![Step 3](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-3.png) |
-| **4** | ![Step 4](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-4.png) |
-| **5** | ![Step 5](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-5.png) |
-| **6** | ![Step 6](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-6.png) |
-| **7** | ![Step 7](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-7.png) |
-| **8** | ![Step 8](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-8.png) |
-| **9** | ![Step 9](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-9.png) |
-| **10** | ![Step 10](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-10.png) |
-| **11** | ![Step 11](https://raw.githubusercontent.com/satellaos-official/satellaos-installer/main/Installation-Guide/Installation-Guide-11.png) |
+| **1** | ![Step 1](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-1.png) |
+| **2** | ![Step 2](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-2.png) |
+| **3** | ![Step 3](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-3.png) |
+| **4** | ![Step 4](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-4.png) |
+| **5** | ![Step 5](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-5.png) |
+| **6** | ![Step 6](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-6.png) |
+| **7** | ![Step 7](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-7.png) |
+| **8** | ![Step 8](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-8.png) |
+| **9** | ![Step 9](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-9.png) |
+| **10** | ![Step 10](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-10.png) |
+| **11** | ![Step 11](https://raw.githubusercontent.com/satellaos-official/satellaos-install-tool/main/Installation-Guide/Installation-Guide-11.png) |
 
 ---
 
@@ -72,7 +72,7 @@
 🇬🇧 Clone the installer repository into your home directory:
 
 ```bash
-git clone https://github.com/satellaos-official/satellaos-installer.git
+git clone https://github.com/satellaos-official/satellaos-install-tool.git
 ```
 
 ---
