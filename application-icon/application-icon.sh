@@ -3,7 +3,7 @@ shopt -s nullglob
 
 sudo mkdir -p /usr/share/SatellaOS/application-icon/
 
-sudo cp ~/satellaos-installer/application-icon/*.{jpg,png} /usr/share/SatellaOS/application-icon/
+sudo cp ~/satellaos-install-tool/application-icon/*.{jpg,png} /usr/share/SatellaOS/application-icon/
 
 sudo chmod 655 /usr/share/SatellaOS/application-icon/*
 

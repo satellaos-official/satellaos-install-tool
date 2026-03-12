@@ -2,7 +2,7 @@
 
 set -e
 
-BASE="$HOME/satellaos-installer/configuration"
+BASE="$HOME/satellaos-install-tool/configuration"
 BACKUP="$HOME/.satellaos-pre-restore-$(date +%s)"
 
 echo "▶ Backing up user settings first..."
